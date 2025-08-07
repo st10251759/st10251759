@@ -48,7 +48,6 @@
         <p>
           <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white"/>
           <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
         </p>
         <p>
           <a href="https://github.com/st10251759/PROG7313-POE-PART-2">
