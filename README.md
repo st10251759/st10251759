@@ -39,19 +39,19 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🩺 Service Desk Solution</h3>
+      <h3 align="center">Agri-Energy Connect Platformn</h3>
       <div align="center">
         <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Service Desk"/>
         <br><br>
-        <p><strong>Real-world IT support platform for Busamed</strong></p>
-        <p>Complete ticketing system with asset tracking, SLA management, and multi-channel support (email, WhatsApp, web portal)</p>
+        <p><strong>An innovative web platform for farmers</strong></p>
+        <p>An innovative web platform bridging South Africa's agricultural sector with green energy technology providers. Features role-based access control, farmer profile management, product marketplace, and sustainable farming resources. Built with ASP.NET Core MVC and SQL Server.</p>
         <p>
           <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white"/>
           <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
           <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
         </p>
         <p>
-          <a href="https://github.com/st10251759/service-desk-solution">
+          <a href="https://github.com/st10251759/PROG7313-POE-PART-2">
             <img src="https://img.shields.io/badge/View_Project-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
@@ -70,7 +70,7 @@
           <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
         </p>
         <p>
-          <a href="https://github.com/st10251759/budget-buddy-app">
+          <a href="https://github.com/st10251759/Prog7313_POE_Part_2">
             <img src="https://img.shields.io/badge/View_Project-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
@@ -91,26 +91,26 @@
           <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=.net&logoColor=white"/>
         </p>
         <p>
-          <a href="https://github.com/st10251759/azure-ecommerce-platform">
+          <a href="https://github.com/st10251759/cldv6212-poe-part-3">
             <img src="https://img.shields.io/badge/View_Project-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 AI Recipe Assistant</h3>
+      <h3 align="center">Dynamic Recipe App (WPF Application)</h3>
       <div align="center">
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="AI Assistant"/>
         <br><br>
         <p><strong>WPF application with smart features</strong></p>
-        <p>Recipe management system with calorie tracking, dynamic scaling, and ingredient optimization using C# and WPF</p>
+        <p>A calorie-tracking application with dynamic recipe management and scaling features. Built using WPF with intuitive UI design, allowing users to manage recipes, track nutritional information, and scale ingredients dynamically.</p>
         <p>
           <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
           <img src="https://img.shields.io/badge/WPF-512BD4?style=flat&logo=.net&logoColor=white"/>
           <img src="https://img.shields.io/badge/XAML-0C54C2?style=flat&logo=xaml&logoColor=white"/>
         </p>
         <p>
-          <a href="https://github.com/st10251759/ai-recipe-assistant">
+          <a href="https://github.com/st10251759/PROG6221-POE">
             <img src="https://img.shields.io/badge/View_Project-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
