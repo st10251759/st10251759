@@ -19,7 +19,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 **Final-year Computer Science Student** at IIE Varsity College  
-🏆 **#1 in class** with **98% average** and **20 distinctions**  
+🏆 **#1 in class** with **99% average** and **24 distinctions**  
 💼 **Project Manager** leading real-world Service Desk development  
 🌟 **Freelance Developer** with 2+ years of client experience  
 📍 **Based in Durban, South Africa** 🇿🇦  
